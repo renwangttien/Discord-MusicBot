@@ -65,7 +65,7 @@ module.exports = {
       {
         name: "song",
         value: "song",
-        type: 3,
+        type: 1,
         description: "Enter a song name to search",
         required: false,
       },
